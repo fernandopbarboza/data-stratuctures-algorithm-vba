@@ -1,6 +1,6 @@
 # 🧩 Palindrome Number: Mathematical Approach
 
-![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=csharp)
+![VBA](https://img.shields.io/badge/Language-VBA-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 Uma solução de alta performance para o clássico desafio de algoritmos, focada em eficiência de memória e otimização matemática sem conversão para strings.
