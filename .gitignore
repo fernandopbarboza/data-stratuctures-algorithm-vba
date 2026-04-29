@@ -1,0 +1,32 @@
+## Arquivos Temporários do Microsoft Office (Lock Files)
+# Quando um arquivo está aberto, o Office cria um arquivo oculto começando com ~$
+~$*.xlsm
+~$*.xlsx
+~$*.xlsb
+~$*.xlam
+~$*.accdb
+~$*.pptm
+~$*.docm
+
+## Arquivos de Backup e Auto-Recuperação
+*.bak
+*.xlk
+*.ar
+*.tmp
+
+## Arquivos de Workspace e Performance (VBA)
+# Arquivos gerados pelo editor de VBA ou ferramentas de terceiros
+*.vba
+*.vbe
+*.vbs
+vbaProject.bin
+*.exd
+
+## Arquivos de Sistema
+Thumbs.db
+.DS_Store
+
+## Opcional: Se você usa ferramentas de exportação (como Rubberduck ou VBA-Web)
+# Ignore a pasta de build final, mas mantenha os fontes (.bas, .cls, .frm)
+[Bb]uild/
+[Dd]ist/
